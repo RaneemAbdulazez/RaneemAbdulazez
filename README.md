@@ -4,6 +4,9 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100"/>
+  
+   😄 Pronouns: She/Her
+
 </div>
 
 
@@ -38,8 +41,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning : Machine learning using sklearn , tensorflow and keras 
 - 👯 Interesting Repoes:
       https://github.com/Doctoraizer/Doctoraizer
+      
+- Tech Products Ideas :
+
+
+          - https://docs.google.com/presentation/d/1ifehhNpbnfVvIeFPxcXg6u9HD9X-wrC_9nrnQZg4cts/edit?usp=sharing
+          
+          - https://docs.google.com/presentation/d/10mekdibXpua8SHh2F6Mg-ez5vNzLjnGt/edit?usp=sharing&ouid=114498008989517260659&rtpof=true&sd=true
+          
+          
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about : -->
-- 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: -->
